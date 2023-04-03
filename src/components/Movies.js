@@ -25,7 +25,7 @@ function Movies() {
             <img src='./images/theflas.jpg'/>
         </Wrap>
         <Wrap>
-            <img src='./images/psbreak.webp'/>
+            <img src='.public/images/img/psbreak.webp'/>
         </Wrap>
         <Wrap>
             <img src='./images/erik-mclean-7sgU1jV8-iw-unsplash.jpg'/>
